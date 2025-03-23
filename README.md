@@ -4,5 +4,5 @@
 - 💞️ I want to collaborate on web development, design and electronics-based solution projects.  
 - 📫 How to reach me: [Email](dharhshinivj30@gmail.com) 
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I enjoy teaching and I tutor math for a school kid. I am also a Desmos dabbler.
-- 🚀 Hobbies: Writing poems, hitting the gym, exploring emerging technologies, and experimenting with creative coding.  
+- ⚡ Fun fact: I enjoy teaching and I tutor math for a school kid.
+- 🚀 Hobbies: Writing poems, hitting the gym, exploring emerging technologies.

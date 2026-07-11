@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @DharhshiniVJ  
-- 👀 I’m interested in data science, electronics, and exploring the intersection of hardware and software systems.  
-- 💞️ I want to collaborate on web development, design and electronics-based solution projects.  
-- 📫 How to reach me: [Email](dharhshinivj30@gmail.com) 
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I enjoy teaching and I tutor math for a school kid.
-- 🚀 Hobbies: Writing poems, hitting the gym, exploring emerging technologies.
+# Hi, I'm Dharhshini
+
+CS undergrad at VIT Chennai exploring agentic AI, Web3, cloud infrastructure, and full-stack development. Open to collaborating on AI agent systems, decentralized platforms, or cloud-native backends.
+
+Reach me at dharhshinivj30@gmail.com · [LinkedIn](https://www.linkedin.com/in/dharhshini-vj-0162871b9/)

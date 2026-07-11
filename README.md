@@ -1,4 +1,4 @@
-# Hi, I'm Dharhshini
+
 
 CS undergrad at VIT Chennai exploring agentic AI, Web3, cloud infrastructure, and full-stack development. Open to collaborating on AI agent systems, decentralized platforms, or cloud-native backends.
 
